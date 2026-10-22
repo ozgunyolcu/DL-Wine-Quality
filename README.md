@@ -38,7 +38,7 @@ This project predicts the sensory quality score (0–10) of Portuguese *\"Vinho 
 ---
 
 ## 🚀 How to Run
-Open the main notebook [`wine_quality_regression.ipynb`](./wine_quality_regression.ipynb) in **PyCharm Pro** or upload to **Google Colab**.
+Open the main notebook [`wine_quality_regression.ipynb`](./wine_quality_regression.ipynb) in **VSCode**, **PyCharm** or upload to **Google Colab**.
 ```bash
 pip install -q ucimlrepo torch scikit-learn pandas numpy matplotlib seaborn
 ```
